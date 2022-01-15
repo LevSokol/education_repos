@@ -1,2 +1,2 @@
-# Java tasks
-Repository containing interesting tasks for different levels of knowledges and skills
+# Education repository
+The first repo for education Git
