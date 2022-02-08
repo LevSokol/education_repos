@@ -15,3 +15,9 @@
 12) git reset --hard <hash commit> - откат изменений до состояния указанного коммита
 13) git remote add origin <link from github> - копирование репозитория
 14) git remote -v - просмотр удаленных репозиториев
+15) git push origin master - отправка изменений с локальной ветки на сервер origin в ветку master
+16) git clone <link of repos from github> - вытягивание репозитория локально
+17) git push --set-upstream origin master - связывание локальной ветки master с удаленной веткой в origin
+18) git rebase <branch> - перемещение коммитов из одной ветки в другую без мёржа
+
+Видео: 1:02:27
